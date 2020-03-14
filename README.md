@@ -25,7 +25,7 @@ problem with this installation as it will be familiar:
   $ make install  
 
 USAGE  
-
+```perl
   use JoeDog::Plock;  
 
   my $lock = new JoeDog::Plock(55555);  
@@ -38,6 +38,6 @@ USAGE
 
   $lock->unlock();  
   exit;  
-
+```
 For greater detail, see: perldoc JoeDog::Plock.pm  
 
