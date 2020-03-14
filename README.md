@@ -1,7 +1,7 @@
 JoeDog::Plock - A PERL5 configuration file parser.  
 
 ABSTRACT:  
-This is a autoloadable module which allows the programmer 
+This is a autoloadable module which allows the programmer  
 to ensure there's only one running copy of his script. It  
 was designed for file locking on an NFS volume. Instead  
 of locking the file, it opens a port and removes the port  
