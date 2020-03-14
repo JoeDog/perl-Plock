@@ -1,4 +1,4 @@
-JoeDog::Plock - A PERL5 configuration file parser.  
+JoeDog::Plock - A PERL5 NFS locking utility.
 
 ABSTRACT:  
 This is a autoloadable module which allows the programmer  
